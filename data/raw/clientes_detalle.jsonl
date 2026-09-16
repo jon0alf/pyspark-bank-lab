@@ -1,0 +1,3 @@
+{"id":1,"nombre":"Ana Lopez","cuenta":{"tipo":"AHORRO","saldo":25000.50}}
+{"id":2,"nombre":"Carlos Perez","cuenta":{"tipo":"NOMINA","saldo":18000.00}}
+{"id":3,"nombre":"Maria Ruiz","cuenta":{"tipo":"AHORRO","saldo":32000.75}}

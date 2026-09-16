@@ -4,3 +4,4 @@ __pycache__/
 .vscode/
 output/
 .DS_Store
+data/processed/

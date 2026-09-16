@@ -1,0 +1,7 @@
+id;cliente;ciudad;fecha;importe
+1; ANA LOPEZ ;cdmx;2026-09-01;1500
+2;Carlos Perez;CDMX;2026-09-02;2300
+3; Maria Ruiz;guadalajara;2026-09-03;3200
+4;;MONTERREY;2026-09-04;1800
+5;Luis Torres;cdmx;2026-09-05;-500
+6;Sofia Diaz;;2026-09-06;2100
